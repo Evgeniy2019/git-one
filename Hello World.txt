@@ -1,4 +1,4 @@
-print ("Hello World")
-print()
+print ("Hello World");
+print();
 
-добавил еще одну команду (print)
+добавил еще одну команду (print);
