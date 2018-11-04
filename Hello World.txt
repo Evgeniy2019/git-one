@@ -3,3 +3,4 @@ print()
 
 добавил еще одну команду (print)
 print (Hello my dear friend)
+print( glad to see you)
