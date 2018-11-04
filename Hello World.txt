@@ -1,6 +1,6 @@
-print ("Hello World")
-print()
+print ("Hello World");
+print();
 
-добавил еще одну команду (print)
+добавил еще одну команду (print);
 print (Hello my dear friend)
 print( glad to see you)
